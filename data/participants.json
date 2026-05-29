@@ -453,5 +453,18 @@
     "tx_hash": "0x646527de3b8b15430b9e9b852f3c980b29f58fedc63f22dfc83cbc5bd295111b",
     "vault_address": "0xB358E5dE47498Ce471FE36E8D8830D89c33A30A1",
     "paid_at": "2026-05-29T12:54:13.590Z"
+  },
+  {
+    "entry_number": 36,
+    "github_id": 288938295,
+    "github_login": "ponniyinn6765",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288938295?v=4",
+    "template_title": "Weather Glance",
+    "app_type": "weather-glance",
+    "pr_number": 52,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/52",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
