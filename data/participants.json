@@ -918,8 +918,8 @@
     "app_type": "kanban-board",
     "pr_number": 99,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/99",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x0e2a3935efee0dab1cfc73851f34c60122512b65f9d451d277498634f212becf",
+    "vault_address": "0x3789F52008992bB138db12935b830B5D4aD9461f",
+    "paid_at": "2026-05-29T16:02:47.943Z"
   }
 ]
