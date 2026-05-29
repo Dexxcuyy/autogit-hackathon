@@ -336,5 +336,18 @@
     "tx_hash": "0xc550537f80bb61c701ca5373ce203e5492569a334010c7ff6e8712f7ee9fa770",
     "vault_address": "0xEfbE5E774e18A4A80Cda1211C37036CAC68421b0",
     "paid_at": "2026-05-29T11:48:39.384Z"
+  },
+  {
+    "entry_number": 27,
+    "github_id": 288923855,
+    "github_login": "rigtujk",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288923855?v=4",
+    "template_title": "Ink Sketch",
+    "app_type": "ink-sketch",
+    "pr_number": 40,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/40",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
