@@ -866,8 +866,8 @@
     "app_type": "music-playlist-manager",
     "pr_number": 95,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/95",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x1fc235eadd55408c99eedf27a0b7ec3be9a443a876a808cbf02aee451fe884ac",
+    "vault_address": "0xC73cA052636553EF2C978628C7E447D5e3B469f7",
+    "paid_at": "2026-05-29T15:52:56.201Z"
   }
 ]
