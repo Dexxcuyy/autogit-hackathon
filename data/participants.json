@@ -567,8 +567,8 @@
     "app_type": "quiz-app",
     "pr_number": 64,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/64",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x5d2047c5e0671d0ab311ca47d1d8512afc527ffd8a49a9bb156c37e109d60994",
+    "vault_address": "0x368675285972270dc070075507dBe9464ad47304",
+    "paid_at": "2026-05-29T14:14:29.093Z"
   }
 ]
