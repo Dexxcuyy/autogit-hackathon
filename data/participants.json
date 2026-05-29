@@ -749,8 +749,8 @@
     "app_type": "recipe-card-app",
     "pr_number": 83,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/83",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x6ca039348d078b2850ce1820eadcac38fd133ac6dbe9736b88e1c5db66f8b1b0",
+    "vault_address": "0xf6DDd7A9B9354c2FBC5ebe5593082044bd711c5A",
+    "paid_at": "2026-05-29T15:28:07.456Z"
   }
 ]
