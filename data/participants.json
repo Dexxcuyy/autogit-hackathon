@@ -362,5 +362,18 @@
     "tx_hash": "0xb8e28c9d89a6cf7afbbdb634b842a04d81ffa2ceb092f134ede47256d3c3ca4a",
     "vault_address": "0xf5412d670CC5E0dfD3bB227681863d552AC0E77d",
     "paid_at": "2026-05-29T12:00:35.780Z"
+  },
+  {
+    "entry_number": 29,
+    "github_id": 288925718,
+    "github_login": "waktuheureuy60",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288925718?v=4",
+    "template_title": "Compass Walk",
+    "app_type": "compass-walk",
+    "pr_number": 43,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/43",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
