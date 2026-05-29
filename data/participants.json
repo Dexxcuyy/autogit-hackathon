@@ -580,8 +580,8 @@
     "app_type": "gas-tracker",
     "pr_number": 65,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/65",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x8779d44eb9d70bdd4e8aeecbc2651e72e4e4827bf8829e5b79cce40e04e92b26",
+    "vault_address": "0xADf4E8dF61C065A56bD5fA8eF8060F780D1CdfDB",
+    "paid_at": "2026-05-29T14:26:47.581Z"
   }
 ]
