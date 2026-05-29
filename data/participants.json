@@ -463,8 +463,8 @@
     "app_type": "weather-glance",
     "pr_number": 52,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/52",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x7abd05583a935c37e7d50ee47fb2abe45e44cb1bba9c4b228a39a33aeabbaff5",
+    "vault_address": "0xa8aaB68fB426974E3BF0c6940575a22bF2cB0b7a",
+    "paid_at": "2026-05-29T13:01:56.689Z"
   }
 ]
