@@ -310,5 +310,18 @@
     "tx_hash": "0xc1f1c82bcafeedc2cc033bd876b1b506299ca526b3270eb559992120fcf2be32",
     "vault_address": "0x8B8D9167b0d00F1FDC1DA92b2f39D1761417f8Bf",
     "paid_at": "2026-05-29T11:37:16.830Z"
+  },
+  {
+    "entry_number": 25,
+    "github_id": 288921029,
+    "github_login": "pocomastert",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288921029?v=4",
+    "template_title": "Voice Notes",
+    "app_type": "voice-notes",
+    "pr_number": 37,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/37",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
