@@ -622,5 +622,18 @@
     "tx_hash": "0x3a401828a599a43c7913387ef6c8d895145d68bfa6ee0d4189df09869b2fd902",
     "vault_address": "0x8b4F4EF9ea0c047140AD21c83aDde44712Aac26c",
     "paid_at": "2026-05-29T14:45:24.456Z"
+  },
+  {
+    "entry_number": 49,
+    "github_id": 288942569,
+    "github_login": "yewscript",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288942569?v=4",
+    "template_title": "QR Generator",
+    "app_type": "qr-generator",
+    "pr_number": 71,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/71",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
