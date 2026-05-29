@@ -554,8 +554,8 @@
     "app_type": "tip-calculator",
     "pr_number": 63,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/63",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xcd3bcd6a0f586ece2f35c354652edc9fe2442a6989eb3ef0a46aaf0bca1e8d82",
+    "vault_address": "0x03dfdF0347B4A71C3cA2F31Ff873a2361fcd7D8a",
+    "paid_at": "2026-05-29T14:11:49.791Z"
   }
 ]
