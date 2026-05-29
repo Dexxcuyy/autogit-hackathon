@@ -385,8 +385,8 @@
     "app_type": "passphrase-vault",
     "pr_number": 44,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/44",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x5ec5ec54d0473781b896f11ce2aa4cc1cdf55fc908882442a19f99f80a9299de",
+    "vault_address": "0x9796a59672f261C73F9A0e9DDef6319Be0B0db93",
+    "paid_at": "2026-05-29T12:15:10.657Z"
   }
 ]
