@@ -908,5 +908,18 @@
     "tx_hash": "0xc1ff9c889c1184e5cf29fbe1addcd61d57faffba0bcac2307130fd74535f2147",
     "vault_address": "0x115c2106399Fad71F67B4c63e682be14277B450a",
     "paid_at": "2026-05-29T15:59:43.032Z"
+  },
+  {
+    "entry_number": 71,
+    "github_id": 288964955,
+    "github_login": "dungeondo",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288964955?v=4",
+    "template_title": "Kanban Board",
+    "app_type": "kanban-board",
+    "pr_number": 99,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/99",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
