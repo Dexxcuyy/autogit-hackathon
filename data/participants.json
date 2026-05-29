@@ -817,5 +817,18 @@
     "tx_hash": "0x0a6419be8c09cfac69f018eb53644791e19a774ebf02b905b5867558cae9babf",
     "vault_address": "0x31E2FeB4F25d112aCA8b3896054308fB51044394",
     "paid_at": "2026-05-29T15:42:29.673Z"
+  },
+  {
+    "entry_number": 64,
+    "github_id": 288985419,
+    "github_login": "rizqpro16-code",
+    "github_avatar": "https://avatars.githubusercontent.com/u/288985419?v=4",
+    "template_title": "Travel Bucket List",
+    "app_type": "travel-bucket-list",
+    "pr_number": 91,
+    "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/91",
+    "tx_hash": null,
+    "vault_address": null,
+    "paid_at": null
   }
 ]
