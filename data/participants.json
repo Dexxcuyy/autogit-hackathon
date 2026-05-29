@@ -710,8 +710,8 @@
     "app_type": "reading-list-tracker",
     "pr_number": 79,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/79",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x88574648676ec657dbdfa882e573c081eaa896953c79e596f470d165bd509298",
+    "vault_address": "0x4aD94da6b1D0Cb498Ed0dfcCFC03E908fBFf0E02",
+    "paid_at": "2026-05-29T15:08:19.014Z"
   }
 ]
