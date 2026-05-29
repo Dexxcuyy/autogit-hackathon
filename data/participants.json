@@ -840,8 +840,8 @@
     "app_type": "markdown-slides",
     "pr_number": 92,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/92",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0x9bbc859e21ca8008c595e67f178f3ac00798ca8fba014ddfcc7ee7b1cfb879ba",
+    "vault_address": "0x11b2C8181a00088de2a5335504657895944C6e42",
+    "paid_at": "2026-05-29T15:45:33.338Z"
   }
 ]
