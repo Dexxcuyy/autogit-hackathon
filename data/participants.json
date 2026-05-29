@@ -268,8 +268,8 @@
     "app_type": "mandelbrot-zoom",
     "pr_number": 33,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/33",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xa6d6ab0e17b1517431e4ac087e0682d1bd3fff2da46506699d462d0b9382ee95",
+    "vault_address": "0x52647DEcFc80D87e34C9545DA880fB5473adC970",
+    "paid_at": "2026-05-29T11:16:58.533Z"
   }
 ]
