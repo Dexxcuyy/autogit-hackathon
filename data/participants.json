@@ -320,8 +320,8 @@
     "app_type": "voice-notes",
     "pr_number": 37,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/37",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xe802249fe7bba8de3f285627a61ef3c3e4d3fe279bf27c9c183d3f3d5ac99a07",
+    "vault_address": "0x7d59074A128400c6A29d76c26891C3e5c68eD97a",
+    "paid_at": "2026-05-29T11:43:06.807Z"
   }
 ]
