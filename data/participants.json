@@ -359,8 +359,8 @@
     "app_type": "prime-sieve",
     "pr_number": 41,
     "pr_url": "https://github.com/gitbankio/autogit-hackathon/pull/41",
-    "tx_hash": null,
-    "vault_address": null,
-    "paid_at": null
+    "tx_hash": "0xb8e28c9d89a6cf7afbbdb634b842a04d81ffa2ceb092f134ede47256d3c3ca4a",
+    "vault_address": "0xf5412d670CC5E0dfD3bB227681863d552AC0E77d",
+    "paid_at": "2026-05-29T12:00:35.780Z"
   }
 ]
